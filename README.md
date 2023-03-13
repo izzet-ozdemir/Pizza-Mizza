@@ -7,7 +7,4 @@ Proje çalıştırıldığında önce menüden alacakları pizzayı ardından ek
 Seçimler doğru şekilde tamamlandıktan sonra sistem pizzanın ücretini yazdırmaktadır. Son aşamada müşterinin ödeme bilgileri istenerek veritabanına yazılıp ödeme işlemi tamamlanır. 
 
 
-Proje Ekibi
-================
-İzzet Özdemir
-Aslı Deniz Bıyık
+Proje Ekibi : İzzet Özdemir / Aslı Deniz Bıyık
